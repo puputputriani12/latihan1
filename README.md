@@ -1,4 +1,4 @@
-Download aplikasi git. lalu buka aplikasi tersebut
+1.Download aplikasi git. lalu buka aplikasi tersebut
 Menambahkan Global Config.Pada saat pertama kali menggunakan git, perlu dilakukan konfigurasi user.name dan user.email.
 Buka direktory aktif, misal: d:\labs_pemrograman1.
 klik kanan pada direktory aktif tersebut, dan pilih menu Git Bash, sehingga muncul git bash command 
