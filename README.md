@@ -1,8 +1,13 @@
-1.Download aplikasi git. lalu buka aplikasi tersebut
+1.Download aplikasi git. lalu buka aplikasi tersebut.
+
 2.Menambahkan Global Config.Pada saat pertama kali menggunakan git, perlu dilakukan konfigurasi user.name dan user.email.
+
 3.Buka direktory aktif, misal: d:\labs_pemrograman1.
+
 4.klik kanan pada direktory aktif tersebut, dan pilih menu Git Bash, sehingga muncul git bash command 
-5.Buat direktory project praktikum pertama dengan nama latihan1
+
+5.Buat direktory project praktikum pertama dengan nama latihan1.
+
 6.Sehingga terbentuk satu direktori baru dibawahnya, selanjutnya masuk kedalam direktori tersebut dengan perintah cd (change directory)    direktory aktif menjadi: d:\labs_pemrograman1\latihan1
 ![](Screenshot/1.png)
 7.Jalankan perintah git init, untuk membuat repository local.
